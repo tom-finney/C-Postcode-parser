@@ -1,0 +1,13 @@
+E:\VS_2019_Projects\FFX_PostcodeParser\bin\Debug\netcoreapp3.1\FFX_PostcodeParser.exe
+E:\VS_2019_Projects\FFX_PostcodeParser\bin\Debug\netcoreapp3.1\FFX_PostcodeParser.deps.json
+E:\VS_2019_Projects\FFX_PostcodeParser\bin\Debug\netcoreapp3.1\FFX_PostcodeParser.runtimeconfig.json
+E:\VS_2019_Projects\FFX_PostcodeParser\bin\Debug\netcoreapp3.1\FFX_PostcodeParser.runtimeconfig.dev.json
+E:\VS_2019_Projects\FFX_PostcodeParser\bin\Debug\netcoreapp3.1\FFX_PostcodeParser.dll
+E:\VS_2019_Projects\FFX_PostcodeParser\bin\Debug\netcoreapp3.1\FFX_PostcodeParser.pdb
+E:\VS_2019_Projects\FFX_PostcodeParser\obj\Debug\netcoreapp3.1\FFX_PostcodeParser.csprojAssemblyReference.cache
+E:\VS_2019_Projects\FFX_PostcodeParser\obj\Debug\netcoreapp3.1\FFX_PostcodeParser.csproj.CoreCompileInputs.cache
+E:\VS_2019_Projects\FFX_PostcodeParser\obj\Debug\netcoreapp3.1\FFX_PostcodeParser.AssemblyInfoInputs.cache
+E:\VS_2019_Projects\FFX_PostcodeParser\obj\Debug\netcoreapp3.1\FFX_PostcodeParser.AssemblyInfo.cs
+E:\VS_2019_Projects\FFX_PostcodeParser\obj\Debug\netcoreapp3.1\FFX_PostcodeParser.dll
+E:\VS_2019_Projects\FFX_PostcodeParser\obj\Debug\netcoreapp3.1\FFX_PostcodeParser.pdb
+E:\VS_2019_Projects\FFX_PostcodeParser\obj\Debug\netcoreapp3.1\FFX_PostcodeParser.genruntimeconfig.cache
